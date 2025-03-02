@@ -1,13 +1,13 @@
-NumPy-Based Project 🧮
+Pandas-Based Project 📊
 About the Project
-This project utilizes NumPy, a powerful Python library for numerical computing. It demonstrates [ array operations, statistical calculations, matrix manipulation, etc.].
+This project utilizes Pandas, a powerful Python library for data manipulation and analysis. It demonstrates [ data cleaning, analysis, visualization, etc.].
 
 Features
-✅ Perform fast array operations
-✅ Matrix manipulations
-✅ Statistical functions (mean, median, standard deviation, etc.)
-✅ Random number generation
+✅ Read and write data from CSV, Excel, JSON
+✅ Data cleaning and preprocessing
+✅ Statistical analysis and aggregations
+✅ Handling missing values
 
 Installation
-Make sure you have Python installed, then install NumPy using:
-pip install numpy
+Make sure you have Python installed, then install Pandas using:
+pip install pandas
